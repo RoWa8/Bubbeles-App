@@ -1,4 +1,4 @@
-﻿id,jahr,alter,kategoriealter,geschlecht,bsz,bszkat,bszkat2,smartphone-schlafen,smartphone-schlafen-kat,jung,jung-griffweite,verzicht,verzicht-kat,geldeinewoche,geldeinewochekat,nutzt-insta,informiert-yt,sorgen,sorgenkat,schutzkategorien,schutzmassnahmen,sorgen-schutz
+﻿id,jahr,alter,kategoriealter,geschlecht,bsz,bszkat,bszkat2,smartphoneschlafen,smartphoneschlafenkat,jung,junggriffweite,verzicht,verzicht-kat,geldeinewoche,geldeinewochekat,nutzt-insta,informiert-yt,sorgen,sorgenkat,schutzkategorien,schutzmassnahmen,sorgen-schutz
 1,2021,30,6,Maennlich,2h-3h,3,9,Ja,1,2,3,Stimmt,1,20 CHF,1,0,1,Stimmt ganz,1,1,1,1
 2,2021,15,2,Maennlich,4h-5h,5,25,Nein,4,1,2,Stimmt eher ,2,100 CHF,2,1,1,Stimmt gar nicht,4,2,1,2
 3,2021,14,2,Maennlich,4h-5h,5,25,Ja,1,1,1,Stimmt nicht,4,ueber 100 CHF,3,0,0,Stimmt eher,2,0,0,3
